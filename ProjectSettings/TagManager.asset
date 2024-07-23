@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ladder
+  - Ground
+  - SpeedUp
+  - Fireball
+  - Trap
+  - JumpIncrease
+  - Enemy
+  - Checkpoint
+  - Projectile
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 60460083
+    locked: 0
+  - name: Behind Terrain
+    uniqueID: 3191226645
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Terrain
+    uniqueID: 534091889
+    locked: 0
+  - name: Player
+    uniqueID: 3135857407
+    locked: 0
+  - name: Foreground
+    uniqueID: 3787933407
+    locked: 0
